@@ -88,5 +88,5 @@ Make sure your CSV files have a structure similar to the one below:
 Contributions are welcome! Please ensure your code is well-documented.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE.txt) file for details.
 
