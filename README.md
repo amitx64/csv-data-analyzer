@@ -63,7 +63,9 @@ A simple and intuitive CSV Data Analyzer built with Python and PyQt5. This tool 
 ```
 csv-data-analyzer/
 ├── data_analyzer.py                # Main application code
+├── LICENSE.txt
 ├── sample_data.csv                 # Sample CSV data for testing
+├── requirements.txt
 ├── README.md                       # Project documentation
 └── images/
     └── application_screenshot.png  # Screenshot of the application
